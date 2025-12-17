@@ -1,1 +1,1 @@
-# DHA-Adapter
+# DHA Adapter for Remote Sensing Scene Classification
